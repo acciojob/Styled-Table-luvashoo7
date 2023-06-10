@@ -1,1 +1,17 @@
 /* your code */
+thead{
+	background-color:#215a8e;
+}
+th, td{
+	padding : 5px;
+}
+table{
+	width: 100%;
+	border-spacing: 0;
+	border-radius: 1em;
+	overflow: hidden;
+}
+th{
+	color: white;
+	margin-left: 
+}
